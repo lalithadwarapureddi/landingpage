@@ -1,0 +1,168 @@
+*{
+    margin:0;
+    padding:0;
+   box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    overflow: visible;
+    background-color: #3498DB ;
+}
+.header{
+    overflow: hidden;
+    width: 100%;
+    height: 60px;
+    background-color: powderblue;
+    text-decoration: none;
+}
+.header ul{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    
+}
+.header li{
+    
+    float: left;
+    list-style-type: none;
+   margin-top: 25px;
+   margin-left: 100px;
+   position: relative;
+    
+}
+.header li:hover{
+    border: 1px solid black;
+}
+#contact{
+    float: right;
+    margin-right: 20px;
+}
+.text1{
+    float: right;
+}
+.content1{
+    margin-top: 20px;
+    padding-right: 20px;
+}
+#img1{
+    float:right;
+    margin-right:200px;
+    margin-top: 20px;
+    padding-right: 60px;
+    height: 200px;
+    width: 300px;
+
+}
+.para1{
+margin-top: 40px;
+margin-left:300px;
+}
+#p1{
+    font-size: 20px;
+}
+#button{
+    font-size: 20px;
+    border-width: 10px;
+    width: 130px;
+    margin-left: 80px;
+    margin-top: 10px;
+    border-radius: 10px;
+   border-color: blue;
+   
+}
+.content2{
+    margin-top: 100px;
+    padding-right: 20px;
+
+}
+#img2{
+    float:right;
+    margin-right:200px;
+    padding-right: 60px;
+    height: 200px;
+    width: 300px;
+   
+
+}
+.para2{
+margin-top: 40px;
+margin-left:300px;
+}
+#p2{
+    font-size: 20px;
+}
+#h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.different{
+    margin-top: 40px;
+    margin-left:300px;
+    padding: 20px;
+}
+#pic{
+    padding: 10px;
+    border-radius: 50px;
+    border-radius: 20%;
+
+}
+#pic:hover{
+   border-radius: 20%;
+   opacity: 0.5;
+   transition-duration: 0.8s;
+
+}
+.images{
+    float: left;
+
+}
+
+#text1{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, ans-serif;
+    color:rgb(12, 16, 238);
+}
+#us{
+    margin-top:250px;
+    margin-left: 350px;
+    color:#641E16 ;
+
+}
+.icons{
+    margin-top: 20px;
+    margin-left:350px;
+}
+#icon{
+    border-radius: 20px;
+}
+.login{
+    float: right;
+    margin-right: 20%;
+    border: 1px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    box-shadow: 4px 5px 10px 10px rgb(153, 60, 60);
+    
+}
+#log{
+    font-size: 40px;
+    font-family:cursive;
+    color:#641E16 ;
+}
+.login ul{
+    margin-top: 50px;
+    list-style-type: none;
+}
+#li{
+    margin-left: 60px;
+}
+#submit{
+    border-width: 15px;
+    width: 100px;
+    border-color:#641E16;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #641E16;
+    
+}
