@@ -1,2 +1,3 @@
 # landingpage
-https://github.com/lalithadwarapureddi/landingpage.git
+site link:
+ https://lalithadwarapureddi.github.io/landingpage/
